@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hello👋, I'm Chaitanya</h1>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ichaitanyabatra/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/ichaitanyabatra/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto: chaitanyabatra2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+  </a>
+</div>
+
+- 🎓 I'm currently pursuing B.TECH in Electronics and Communication Engineering from NSUT, Delhi
+
+- 🌱 I'm currently learning Web Development and DSA in Python
+
+![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyabatra&show_icons=true&locale=en&theme=transparent)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaitanyabatra&theme=dark&border_radius=2.5)](https://git.io/streak-stats)
