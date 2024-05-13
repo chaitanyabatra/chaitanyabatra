@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🎓 I'm currently pursuing B.TECH in Electronics and Communication Engineering from NSUT, Delhi
 
-- 🌱 I'm currently learning Web Development and DSA in Python
+- 🌱 I'm currently learning Development and DSA in Python
 
 ![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyabatra&show_icons=true&locale=en&theme=transparent)
 
