@@ -27,10 +27,20 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-- 🎓 I'm currently pursuing B.TECH in Electronics and Communication Engineering from NSUT, Delhi
+- 🎓 I'm currently pursuing my last year in University from NSUT, Delhi
 
-- 🌱 I'm currently learning Development and DSA in Python
+- 🌱 I'm a Software Developer specilizing in Python/AI-ML Development.
 
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyabatra&show_icons=true&locale=en&theme=transparent)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyabatra&show_icons=true&locale=en&theme=transparent)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaitanyabatra&theme=dark&border_radius=2.5)](https://git.io/streak-stats)
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaitanyabatra&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
